@@ -1,9 +1,11 @@
 package com.cg.training;
 
-public class helloJava {
+public class HelloProgram {
 
 	public static void main(String[] args) {
-		System.out.println("This is your first java program");
+		System.out.println("Hello");
+		
+		
 
 	}
 
